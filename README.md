@@ -1,4 +1,4 @@
-# 🧪 Image Processing · Exercises
+# Image Processing · Exercises
 
 Python and Jupyter notebook exercises from **EA979 — Processamento de Imagens e Computação Gráfica**, at **UNICAMP** 🇧🇷.
 
